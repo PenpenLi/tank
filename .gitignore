@@ -1,0 +1,71 @@
+# 忽略frameworks/目录下的所有文件
+#frameworks/cocos2d-x
+#frameworks/cocos2d-x/build/build/
+#frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/build/
+
+#frameworks/runtime-src/proj.ios_mac/tank.xcodeproj
+bin/
+gen/
+#libs/
+obj/
+#frameworks/runtime-src/proj.android/res
+local.properties
+frameworks/runtime-src/proj.linux
+frameworks/runtime-src/proj.win32
+frameworks/runtime-src/proj.ios_mac/build/tank.xcodeproj
+frameworks/runtime-src/proj.android-studio/app/libs/armeabi
+frameworks/runtime-src/proj.android/
+
+# 忽略runtime/目录下的所有文件
+runtime/
+
+# 忽略cocosstudio/目录下
+cocosstudio/res.udf
+cocosstudio/res.cfg
+
+# 忽略res/目录下
+res/csd/
+res/Default/
+res/Resources/
+res/data/
+# 忽略src/目录下
+src/config.lua
+
+*.udf
+*.properties
+*DS_Store
+debug.log
+project.xcworkspace/
+xcuserdata/
+xcschemes/
+build/
+.gradle/
+
+/tmp
+
+frameworks/runtime-src/proj.ios_mac/build/
+frameworks/cocos2d-x/tools/simulator/libsimulator/proj.ios_mac/build/
+
+simulator/
+
+# 模块的不需要上传，因为在res中已经有了
+modules/Default/
+modules/Resources/
+modules/LuaExtend.lua
+modules/*/ui/
+modules/*/res/
+modules/*/manifest.json
+modules/.publish/
+*.pyc
+.tank/
+res/manifest.json
+
+# 排除frameworks目录，
+/frameworks/cocos2d-x/
+/frameworks/*.zip
+
+#排除frameworks/runtime-src
+/frameworks/runtime-src
+
+#!/frameworks/runtime-src/proj.ios_mac/tank.xcodeproj/xcshareddata/xcschemes
+#!/frameworks/runtime-src/proj.android-studio/libraries/lib/libs

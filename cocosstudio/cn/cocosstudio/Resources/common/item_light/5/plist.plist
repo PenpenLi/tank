@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Resources/common/item_light/5/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1339,320},{281,238}}</string>
+				<key>offset</key>
+				<string>{-1,-5}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{843,388},{425,251}}</string>
+				<key>offset</key>
+				<string>{-16,-4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1094,354},{390,245}}</string>
+				<key>offset</key>
+				<string>{-20,-12}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1182,744},{366,240}}</string>
+				<key>offset</key>
+				<string>{-19,-19}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{843,813},{339,178}}</string>
+				<key>offset</key>
+				<string>{-28,-17}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,866},{328,151}}</string>
+				<key>offset</key>
+				<string>{-21,-34}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1162,0},{320,254}}</string>
+				<key>offset</key>
+				<string>{-8,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{878,0},{354,284}}</string>
+				<key>offset</key>
+				<string>{-17,-3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{587,0},{388,291}}</string>
+				<key>offset</key>
+				<string>{-15,-4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{291,0},{422,296}}</string>
+				<key>offset</key>
+				<string>{-13,-6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,447},{433,298}}</string>
+				<key>offset</key>
+				<string>{-16,-9}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{447,291}}</string>
+				<key>offset</key>
+				<string>{-16,-9}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,422},{444,273}}</string>
+				<key>offset</key>
+				<string>{-18,-9}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+			<key>Resources/common/item_light/5/9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{571,422},{438,272}}</string>
+				<key>offset</key>
+				<string>{-17,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{490,355}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>plist.png</string>
+			<key>realTextureFileName</key>
+			<string>plist.png</string>
+			<key>size</key>
+			<string>{1577,1017}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1577</integer>
+			<key>height</key>
+			<integer>1017</integer>
+		</dict>
+	</dict>
+</plist>

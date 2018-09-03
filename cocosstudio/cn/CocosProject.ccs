@@ -1,0 +1,216 @@
+<Solution>
+  <PropertyGroup Name="CocosProject" Version="2.3.1.2" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="csd">
+          <Project Name="all.csd" Type="Node" />
+          <Folder Name="view">
+            <Folder Name="login">
+              <Project Name="LoginView.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="home">
+              <Project Name="HomeView.csd" Type="Layer" />
+            </Folder>
+          </Folder>
+          <Folder Name="widget">
+            <Project Name="Debugger.csd" Type="Layer" />
+            <Project Name="ServiceLoading.csd" Type="Layer" />
+            <Project Name="Toast.csd" Type="Node" />
+          </Folder>
+        </Folder>
+        <Folder Name="Resources">
+          <Folder Name="login">
+            <Image Name="1.png" />
+            <Image Name="10.png" />
+            <Image Name="11.png" />
+            <Image Name="111.png" />
+            <Image Name="12.png" />
+            <Image Name="13.png" />
+            <Image Name="14.png" />
+            <Image Name="15.png" />
+            <Image Name="16.png" />
+            <Image Name="17.png" />
+            <Image Name="18.png" />
+            <Image Name="19.png" />
+            <Image Name="2.png" />
+            <Image Name="20.png" />
+            <Image Name="21.png" />
+            <Image Name="22.png" />
+            <Image Name="222.png" />
+            <Image Name="23.png" />
+            <Image Name="3.png" />
+            <Image Name="333.jpg" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+            <Image Name="bg1.jpg" />
+            <Image Name="denglu.png" />
+            <Image Name="logo1.png" />
+            <Image Name="quan.png" />
+          </Folder>
+          <Folder Name="common">
+            <Folder Name="bg">
+              <Image Name="1.png" />
+              <Image Name="10.png" />
+              <Image Name="11.png" />
+              <Image Name="12.png" />
+              <Image Name="13.png" />
+              <Image Name="14.png" />
+              <Image Name="18.png" />
+              <Image Name="19.png" />
+              <Image Name="2.png" />
+              <Image Name="21.png" />
+              <Image Name="25.png" />
+              <Image Name="3.png" />
+              <Image Name="7.png" />
+              <Image Name="8.png" />
+              <Image Name="9.png" />
+              <Image Name="bg1.png" />
+              <Image Name="bg2.png" />
+              <Image Name="bg3.png" />
+              <Image Name="gonggao.png" />
+              <Image Name="textFrame.png" />
+              <Image Name="tipEffect.png" />
+            </Folder>
+            <Folder Name="btn">
+              <Image Name="10.png" />
+              <Image Name="13.png" />
+              <Image Name="2.png" />
+              <Image Name="26.png" />
+              <Image Name="3.png" />
+              <Image Name="4.png" />
+              <Image Name="5.png" />
+              <Image Name="9.png" />
+              <Image Name="a11.png" />
+              <Image Name="adi.png" />
+              <Image Name="back.png" />
+              <Image Name="binansuo.png" />
+              <Image Name="exit.png" />
+              <Image Name="jia.png" />
+              <Image Name="jian.png" />
+              <Image Name="normalBtn.png" />
+              <Image Name="qq1.png" />
+              <Image Name="renwu.png" />
+              <Image Name="wenhao.png" />
+            </Folder>
+            <Folder Name="frame">
+              <Image Name="1.png" />
+              <Image Name="2.png" />
+              <Image Name="3.png" />
+              <Image Name="4.png" />
+              <Image Name="5.png" />
+              <Image Name="drop1.png" />
+              <Image Name="drop2.png" />
+              <Image Name="drop3.png" />
+              <Image Name="drop4.png" />
+              <Image Name="drop5.png" />
+              <Image Name="drop6.png" />
+              <Image Name="item1.png" />
+              <Image Name="item2.png" />
+              <Image Name="item3.png" />
+              <Image Name="item4.png" />
+              <Image Name="item5.png" />
+              <Image Name="item6.png" />
+              <Image Name="zhongshang.png" />
+            </Folder>
+            <Folder Name="img">
+              <Image Name="14.png" />
+              <Image Name="15.png" />
+              <Image Name="33.png" />
+              <Image Name="35.png" />
+              <Image Name="36.png" />
+              <Image Name="37.png" />
+              <Image Name="38.png" />
+              <Image Name="39.png" />
+              <Image Name="4.png" />
+              <Image Name="loading.png" />
+              <Image Name="q1.png" />
+              <Image Name="q2.png" />
+              <Image Name="q4.png" />
+              <Image Name="tip_detail.png" />
+            </Folder>
+            <Folder Name="item_light">
+              <Folder Name="5">
+                <PlistImageFolder Image="plist.png" PListFile="plist.plist" Name=".plist_PList.Dir">
+                  <PlistImageFile Name="Resources_common_item_light_5_1.png" Key="Resources/common/item_light/5/1.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_10.png" Key="Resources/common/item_light/5/10.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_11.png" Key="Resources/common/item_light/5/11.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_12.png" Key="Resources/common/item_light/5/12.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_13.png" Key="Resources/common/item_light/5/13.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_14.png" Key="Resources/common/item_light/5/14.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_2.png" Key="Resources/common/item_light/5/2.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_3.png" Key="Resources/common/item_light/5/3.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_4.png" Key="Resources/common/item_light/5/4.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_5.png" Key="Resources/common/item_light/5/5.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_6.png" Key="Resources/common/item_light/5/6.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_7.png" Key="Resources/common/item_light/5/7.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_8.png" Key="Resources/common/item_light/5/8.png" />
+                  <PlistImageFile Name="Resources_common_item_light_5_9.png" Key="Resources/common/item_light/5/9.png" />
+                </PlistImageFolder>
+              </Folder>
+              <Folder Name="6">
+                <PlistImageFolder Image="plist.png" PListFile="plist.plist" Name=".plist_PList.Dir">
+                  <PlistImageFile Name="Resources_common_item_light_6_1.png" Key="Resources/common/item_light/6/1.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_10.png" Key="Resources/common/item_light/6/10.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_11.png" Key="Resources/common/item_light/6/11.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_12.png" Key="Resources/common/item_light/6/12.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_13.png" Key="Resources/common/item_light/6/13.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_14.png" Key="Resources/common/item_light/6/14.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_2.png" Key="Resources/common/item_light/6/2.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_3.png" Key="Resources/common/item_light/6/3.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_4.png" Key="Resources/common/item_light/6/4.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_5.png" Key="Resources/common/item_light/6/5.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_6.png" Key="Resources/common/item_light/6/6.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_7.png" Key="Resources/common/item_light/6/7.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_8.png" Key="Resources/common/item_light/6/8.png" />
+                  <PlistImageFile Name="Resources_common_item_light_6_9.png" Key="Resources/common/item_light/6/9.png" />
+                </PlistImageFolder>
+              </Folder>
+            </Folder>
+            <Folder Name="resource">
+              <Image Name="coinIcon.png" />
+              <Image Name="diamond.png" />
+              <Image Name="energy.png" />
+              <Image Name="jingyanzhi.png" />
+              <Image Name="skillDian.png" />
+              <Image Name="yujin.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="font">
+            <Folder Name="ttf">
+              <TTF Name="black_body.TTF" />
+              <TTF Name="black_body_2.TTF" />
+              <TTF Name="zkkh.ttf" />
+            </Folder>
+          </Folder>
+          <Folder Name="home">
+            <Image Name="activityBottom.png" />
+            <Image Name="activityIcon1.png" />
+            <Image Name="activityIcon2.png" />
+            <Image Name="add.png" />
+            <Image Name="bg.jpg" />
+            <Image Name="coinBottom.png" />
+            <Image Name="coinIcon.png" />
+            <Image Name="diamond.png" />
+            <Image Name="flag.png" />
+            <Image Name="gogogo.png" />
+            <Image Name="hero.png" />
+            <Image Name="iconBottom.png" />
+            <Image Name="mail.png" />
+            <Image Name="mailBottom.png" />
+            <Image Name="new.png" />
+            <Image Name="numIcon.png" />
+            <Image Name="shop.png" />
+            <Image Name="skill.png" />
+            <Image Name="task.png" />
+            <Image Name="warehouse.png" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -104,6 +104,6 @@ require "cocos.cocosbuilder.CCBReaderLoad"
 -- physics3d
 require "cocos.physics3d.physics3d-constants"
 
-if CC_USE_FRAMEWORK then
+-- if CC_USE_FRAMEWORK then
     require "cocos.framework.init"
-end
+-- end
